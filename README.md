@@ -4,7 +4,7 @@
 
 Build your typescript projects without worrying about boilerplate
 
-## NPM Scripts
+## NPM Scripts
 
 * `build`: transpile your TypeScript into JavaScript and place it in `dist` folder.
 * `test`: execute your tests under `test` folder.
